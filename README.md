@@ -110,12 +110,6 @@ int main(int argc, char* argv[]) {
     return 0;
 }
 ```
-
-## Write a C program that implements a producer-consumer system with two processes using Semaphores.
-
-
-
-
 ## OUTPUT
 $ ./sem.o 
 ![image](https://github.com/Kamal-Raj-A/Linux-IPC-Semaphores/assets/145742556/20deebeb-dc7d-4d5f-9969-0b07e92b9f85)
